@@ -8,3 +8,5 @@
 - [Отчеты о дефекте для мобильного приложения Shopping-list](https://github.com/Larchenko-O/mobile/blob/main/Отчеты%20о%20дефекте%20%20мобильного%20приложения%20Shopping-list%20-%20Alexey%20Larchenko%20.xlsx)  
 - [Тестовый прогон для мобильного приложения Shopping-list](https://github.com/Larchenko-O/mobile/blob/main/Тестовый%20прогон%20для%20%20мобильного%20приложения%20Shopping-list%20-%20Alexey%20Larchenko.pdf)  
 - [Отчет по результатам тестирования мобильного приложения Shopping-list](https://github.com/Larchenko-O/mobile/blob/main/Отчет%20по%20результатам%20тестирования%20-%20Алексей%20Ларченко.docx)
+### Обучился перехвату и изменению трафика в Charles Proxy (видео):
+- [Перехват и изменение трафика в Charles Proxy](Charles_Proxy.mov)
